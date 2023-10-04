@@ -1,5 +1,8 @@
 # To-Do-List
 The project called "To-Do List" is a web application that enables users to efficiently organize and handle their task lists. Developed with HTML, CSS and JavaScript this application offers an user friendly interface, for adding, managing and marking tasks as completed.
+
+
+
 	-	A minimal design with HTML and CSS, it should look nice (no libraries, no frameworks).
 	-	A text box at the top to add a todo item to the list.
 	-	Add button: when a user clicks on the button, add that todo item to the list.
